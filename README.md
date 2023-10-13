@@ -7,8 +7,8 @@ This program converts 4 different types of measurements
 4. Meter(s) to Feet
 
 These four operations can be selected by inputting the number
-corrisponding to the conversion.
-When in a specifc conversion you can enter values you want to convert
+corresponding to the conversion.
+When in a specific conversion you can enter values you want to convert
 until you would like to go back to the menu. 
 
 With operations 2-4, you can go back to the menu by inputting
